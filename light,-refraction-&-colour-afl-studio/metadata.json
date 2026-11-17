@@ -1,6 +1,0 @@
-{
-  "name": "Light, Refraction & Colour AFL Studio",
-  "description": "Interactive Science 8 optics laboratory, 40-card active recall deck, 6 collaborative physics challenges, Mock AFL exam papers, and real-time WebSocket multiplayer study rooms.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
